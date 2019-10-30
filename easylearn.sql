@@ -47,7 +47,7 @@ CREATE TABLE `auth_group_permissions` (
 
 -- --------------------------------------------------------
 
---
+
 -- Table structure for table `auth_permission`
 --
 
